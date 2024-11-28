@@ -1,0 +1,24 @@
+**
+satır numarası iş numarası son kayıda gçre otomatik geliyo 
+istenen miktar ve birimi olucak m,ltar birimi diye aurı bir sütun yok
+aynı madde kodu listede varsa eklemiyor hata veriyor
+düzenleye madde birimi ekle
+sadece seçili olan vazgeç satır numarası oto verilcek değişecek
+talep et basınca listeleme en son talep edilen en üste iş numarasına göre sıralanıyor
+admin kullanıcıya depocu atayabilir
+/////
+ekran açılınca direkt listelensin onaylanan ve bekleyen olarak filtrelensin
+depocuya göre talep edilen ve onaylanan kayıtlar filtrelenicek
+sıralama eskiden öne gelicek
+rapor sayfası**admine geçicek
+tarih seç ona göre filirtele onaylanan talepler yine depocuya göre filtrelenecek
+en çok talep edilenler kullanıcılara göredağılım
+/////
+kullanıcı id otomatik gelmesi lazım sıraya göre 
+istasyon id yerine isim girilmeli
+farklı istasyonlarda aynı malzemeler ve farklı depocular olabilir
+bir çalışanın bir depocusu olabilir
+
+
+
+
